@@ -260,4 +260,5 @@ footer {
   bottom: 20px;
   right: 40px;
   text-align: center;
+  cursor: pointer;
 }
