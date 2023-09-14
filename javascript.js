@@ -1,6 +1,6 @@
 //freccina top
 function scrollToTop() {
-           window.scrollToTop(0, 0);
+           window.scrollTo0, 0);
         }
 function showCookie() {
       let cookie = document.querySelector('#cookie');
